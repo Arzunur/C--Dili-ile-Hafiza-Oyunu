@@ -1,0 +1,24 @@
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.Form1.resources
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.Properties.Resources.resources
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\bin\Debug\HafızaGame2.exe.config
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\bin\Debug\HafızaGame2.exe
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\bin\Debug\HafızaGame2.pdb
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.exe
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.pdb
+C:\Users\asus\Desktop\visual program\OyunTasarım\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.Form2.resources
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\bin\Debug\HafızaGame2.exe.config
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\bin\Debug\HafızaGame2.exe
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\bin\Debug\HafızaGame2.pdb
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.Form1.resources
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.Form2.resources
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.Properties.Resources.resources
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.GenerateResource.cache
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.exe
+C:\Users\asus\Documents\GitHub\Projects\HafızaGame2\HafızaGame2\obj\Debug\HafızaGame2.pdb
